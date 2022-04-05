@@ -1,0 +1,17 @@
+{
+"companyName": "AZTechGamesLLC",
+"productName": "Water Sort - Color Sorting",
+"productVersion": "1.0.1",
+"dataUrl": "ScreenTest4.data.unityweb",
+"wasmCodeUrl": "ScreenTest4.wasm.code.unityweb",
+"wasmFrameworkUrl": "ScreenTest4.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "ScreenTest4.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.35f1"
+}
